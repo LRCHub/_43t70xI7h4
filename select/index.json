@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "Len - GHOST (feat. Such )",
+  "base_artist": "Len —",
+  "createdAt": "2026-03-22T13:34:23.059474Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Words from Mr. Len Part One",
+      "artist": "Jedi Mind Tricks",
+      "has_synced": false,
+      "path": "select/01_Words_from_Mr._Len_Part_One_Jedi_Mind_Tricks.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Alice in N.Y. (feat. Kagamine Len&Kagamine Rin&Hatsune Miku&Megurine Luka&MEIKO&KAITO&Gackpoid&Megpoid&MAYU&IA)",
+      "artist": "Hitoshizuku & Yama",
+      "has_synced": false,
+      "path": "select/02_Alice_in_N.Y._(feat._Kagamine_Len&Kagamine_Rin&Hatsune_Miku&Megurine_Luka&MEIKO&_Hitoshizuku_&_Yama.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Spice! (feat. Kagamine Len)",
+      "artist": "minato feat. 初音ミク feat. Kagamine Len",
+      "has_synced": false,
+      "path": "select/03_Spice!_(feat._Kagamine_Len)_minato_feat._初音ミク_feat._Kagamine_Len.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Có Chàng Trai Viết Lên Cây",
+      "artist": "Phan Mạnh Quỳnh",
+      "has_synced": true,
+      "path": "select/04_Có_Chàng_Trai_Viết_Lên_Cây_Phan_Mạnh_Quỳnh.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Ready Steady (feat. Hatsune Miku, Kagamine Rin, Kagamine Len)",
+      "artist": "Giga feat. Miku Hatsune, Rin Kagamine & Len Kagamine",
+      "has_synced": true,
+      "path": "select/05_Ready_Steady_(feat._Hatsune_Miku,_Kagamine_Rin,_Kagamine_Len)_Giga_feat._Miku_Hatsune,_Rin_Kagamine_&_Len_Kagamine.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Ready Steady (feat. Hatsune Miku, Kagamine Rin, Kagamine Len)",
+      "artist": "Giga/Hatsune Miku/Kagamine Rin/Kagamine Len",
+      "has_synced": true,
+      "path": "select/06_Ready_Steady_(feat._Hatsune_Miku,_Kagamine_Rin,_Kagamine_Len)_Giga_Hatsune_Miku_Kagamine_Rin_Kagamine_Len.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Ngày Mai Nắng Lên Anh Sẽ Về",
+      "artist": "Anh Khang",
+      "has_synced": true,
+      "path": "select/07_Ngày_Mai_Nắng_Lên_Anh_Sẽ_Về_Anh_Khang.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Ngày Mai Nắng Lên Anh Sẽ Về",
+      "artist": "Anh Khang",
+      "has_synced": true,
+      "path": "select/08_Ngày_Mai_Nắng_Lên_Anh_Sẽ_Về_Anh_Khang.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Tết Đi Lên Cùng Nhau",
+      "artist": "Da LAB",
+      "has_synced": true,
+      "path": "select/09_Tết_Đi_Lên_Cùng_Nhau_Da_LAB.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Gemini (feat. Kagamine Rin/Len)",
+      "artist": "Dixie Flatline feat. Kagamine Rin/Len",
+      "has_synced": true,
+      "path": "select/10_Gemini_(feat._Kagamine_Rin_Len)_Dixie_Flatline_feat._Kagamine_Rin_Len.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Song for Len Shackleton",
+      "artist": "Chumbawamba",
+      "has_synced": false,
+      "path": "select/11_Song_for_Len_Shackleton_Chumbawamba.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Keh Len De",
+      "artist": "Kaka",
+      "has_synced": true,
+      "path": "select/12_Keh_Len_De_Kaka.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Jee Len De",
+      "artist": "Atif Aslam",
+      "has_synced": true,
+      "path": "select/13_Jee_Len_De_Atif_Aslam.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Jee Len De",
+      "artist": "Atif Aslam",
+      "has_synced": true,
+      "path": "select/14_Jee_Len_De_Atif_Aslam.lrc"
+    }
+  ]
+}
